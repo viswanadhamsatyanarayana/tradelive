@@ -2,4 +2,3 @@
 Stories: login, portfolio, buy, sell, history
 <satyanarayana>
 Buy order rule: quantity must be greater thean zero
-a line we will undo publicly
